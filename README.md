@@ -1,5 +1,5 @@
 # Project-Name
-![Project-Name](./example-banner.jpg)
+![Project-Name](./example-banner.png)
 ## Project Banner Image
 > short description description
 
