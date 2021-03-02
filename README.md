@@ -1,5 +1,5 @@
 # Project-Name
-![Project-Name](./example-banner.png)
+![Project-Name](./readme/example-banner.png)
 ## Project Banner Image
 > short description description
 
