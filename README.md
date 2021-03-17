@@ -1,54 +1,26 @@
 # Project-Name
-![Project-Name](./readme/example-banner.png)
-## Project Banner Image
 > short description description
 
+Check it out [live](https://google.com/)
 <p align="row">
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 </p>
 
-## Live Demo
-link
+## Features
+* feature list
 
-## Buit With
+## Tecnologies
 * languages
 * frameworks
 * technologies
 
-## Getting Started
-
-### Prerequisites
-
-### setup
-
-### install
-
-### usage
-
-### run tests
-
-### deployment
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## 👨‍🚀Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* github links
-
-## 🚀 Contributing
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+## How to run this project
+1. clone the repo from the Github repository
+2. run the following commands from the project root directory (pleae use yarn instead of npm)
+  
+  `yarn install`
+  
+  `yarn start`
 
 [⬆ Back to the Top](#Project-Name)<br>
