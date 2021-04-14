@@ -1,11 +1,13 @@
 # Project-Name
-> short description description
 
-Check it out [live](https://google.com/)
 <p align="row">
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 </p>
+
+> short description description
+
+Check it out [live](https://google.com/)
 
 ## Overview
 - feature list
